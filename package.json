@@ -1,0 +1,14 @@
+{
+  "name": "body-works",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ashley Karhoff",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
